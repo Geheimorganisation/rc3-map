@@ -290,7 +290,7 @@
  </layer>
  <layer id="2" name="exit" width="50" height="50" opacity="0">
   <properties>
-   <property name="exitUrl" value="https://lobby.maps.at.rc3.world/maps/generic-assemblies.json#start_geheimorganisation"/>
+   <property name="exitUrl" value="https://lobby.maps.at.rc3.world/maps/generic-assemblies.json"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

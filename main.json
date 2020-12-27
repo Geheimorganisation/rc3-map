@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/generic-assemblies.json#start_geheimorganisation"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/generic-assemblies.json"
                 }],
          "type":"tilelayer",
          "visible":true,
