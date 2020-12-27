@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_chaos-bronies}"
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_start_geheimorganisation}"
                 }],
          "type":"tilelayer",
          "visible":true,

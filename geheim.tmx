@@ -305,7 +305,7 @@
  </layer>
  <layer id="2" name="exit" width="50" height="50" opacity="0">
   <properties>
-   <property name="exitUrl" value="{&lt;lobby&gt;/maps/generic-assemblies.json#start_chaos-bronies}"/>
+   <property name="exitUrl" value="{&lt;lobby&gt;/maps/generic-assemblies.json#start_start_geheimorganisation}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
