@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/generic-assemblies.json"
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_chaos-bronies}"
                 }],
          "type":"tilelayer",
          "visible":true,
