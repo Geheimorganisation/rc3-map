@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"main.json"
+         "target":"geheimorga-map\/main.json"
         }
     },
  "height":50,
@@ -138,17 +138,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":32,
          "firstgid":12,
-         "image":"tiles\/base_out_atlas.png",
-         "imageheight":1024,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"base_out_atlas",
-         "spacing":0,
-         "tilecount":1024,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tiles\/base_out_atlas.tsx"
         }],
  "tilewidth":32,
  "type":"map",
