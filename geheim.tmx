@@ -191,6 +191,7 @@
  <layer id="18" name="automat" width="50" height="50">
   <properties>
    <property name="playAudio" value="gluecksmelodienautomat/gluecksmelodienautomat.mp3"/>
+   <property name="silent" type="bool" value="true"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
