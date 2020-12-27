@@ -171,7 +171,7 @@
         {
          "columns":32,
          "firstgid":1036,
-         "image":"..\/rc3-master\/tiles\/atlas\/terrain_atlas.png",
+         "image":"tiles\/terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
