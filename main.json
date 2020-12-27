@@ -63,6 +63,11 @@
                  "name":"playAudio",
                  "type":"string",
                  "value":"gluecksmelodienautomat\/gluecksmelodienautomat.mp3"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
