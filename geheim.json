@@ -107,16 +107,17 @@
          "y":0
         }, 
         {
-         "id":3,
-         "image":"",
+         "draworder":"topdown",
+         "id":8,
          "name":"floorLayer",
+         "objects":[],
          "opacity":1,
-         "type":"imagelayer",
+         "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":8,
+ "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
