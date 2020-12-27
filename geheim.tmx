@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="1">
  <editorsettings>
-  <export target="geheimorga-map/main.json" format="json"/>
+  <export target="main.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" name="mapUtilities_mod" tilewidth="32" tileheight="32" tilecount="11" columns="11">
   <image source="tiles/mapUtilities_mod.png" width="352" height="32"/>
  </tileset>
- <tileset firstgid="12" source="tiles/base_out_atlas.tsx"/>
+ <tileset firstgid="12" name="base_out_atlas" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="tiles/base_out_atlas.png" width="1024" height="1024"/>
+ </tileset>
  <layer id="4" name="floor" width="50" height="50">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
