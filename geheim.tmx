@@ -248,6 +248,7 @@
  </layer>
  <layer id="18" name="automat" width="50" height="50">
   <properties>
+   <property name="getBadge" value="WHRDWriMSI5tu6mKO0xkoDUwWzVgawBKzT6MHckrYd1lgiTFxR"/>
    <property name="playAudio" value="gluecksmelodienautomat/gluecksmelodienautomat.mp3"/>
    <property name="silent" type="bool" value="true"/>
   </properties>

@@ -60,6 +60,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"WHRDWriMSI5tu6mKO0xkoDUwWzVgawBKzT6MHckrYd1lgiTFxR"
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"gluecksmelodienautomat\/gluecksmelodienautomat.mp3"
@@ -98,8 +103,8 @@
          "height":50,
          "id":2,
          "name":"exit",
-         "offsetx":-7.11490572749909,
-         "offsety":8.89363215937385,
+         "offsetx":-7.11491,
+         "offsety":8.89363,
          "opacity":1,
          "properties":[
                 {
