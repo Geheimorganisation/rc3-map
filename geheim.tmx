@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" infinite="0" nextlayerid="19" nextobjectid="4">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" infinite="0" nextlayerid="20" nextobjectid="4">
  <editorsettings>
   <export target="main.json" format="json"/>
  </editorsettings>
@@ -358,9 +358,12 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
+ <imagelayer id="19" name="exitDoor" offsetx="441.339" offsety="745.114">
+  <image source="tiles/worldExit.png" width="64" height="64"/>
+ </imagelayer>
  <layer id="2" name="exit" width="50" height="50" locked="1" opacity="0">
   <properties>
-   <property name="exitUrl" value="{&lt;lobby&gt;/maps/generic-assemblies.json#start_start_geheimorganisation}"/>
+   <property name="exitUrl" value="{&lt;lobby&gt;/maps/generic-assemblies.json#start_geheimorganisation}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
