@@ -69,6 +69,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared geheimorganisation"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"string",
+                 "value":"true"
                 }],
          "type":"tilelayer",
          "visible":true,
