@@ -72,8 +72,8 @@
                 }, 
                 {
                  "name":"silent",
-                 "type":"string",
-                 "value":"true"
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -111,12 +111,6 @@
          "id":46,
          "name":"dog",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"string",
-                 "value":"false"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -230,8 +224,8 @@
                 }, 
                 {
                  "name":"silent",
-                 "type":"string",
-                 "value":"tru"
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
